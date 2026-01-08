@@ -8,7 +8,7 @@ Written in Lua, with support for Treesitter, Telescope, and more.
 ### [lazy.nvim](https://github.com/folke/lazy.nvim)
 
 ```lua
-{
+return {
   "sasagar/ktrz-monokai.nvim",
   name = "ktrz-monokai",
   opts = {
