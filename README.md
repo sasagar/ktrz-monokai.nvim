@@ -9,7 +9,7 @@ Written in Lua, with support for Treesitter, Telescope, and more.
 
 ```lua
 {
-  "yourname/ktrz-monokai.nvim",
+  "sasagar/ktrz-monokai.nvim",
   name = "ktrz-monokai",
   opts = {
     -- Optional config
@@ -23,7 +23,7 @@ Written in Lua, with support for Treesitter, Telescope, and more.
 
 ```lua
 use({
-  "yourname/ktrz-monokai.nvim",
+  "sasagar/ktrz-monokai.nvim",
   config = function()
     require("ktrz-monokai").setup({
       -- Optional config
