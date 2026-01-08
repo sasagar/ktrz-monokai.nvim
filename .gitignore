@@ -1,0 +1,18 @@
+# MacOS
+.DS_Store
+
+# Vim/Neovim
+*.swp
+*.swo
+*~
+session.vim
+
+# Lua
+luac.out
+
+# Luarocks
+lua_modules/
+.luarocks/
+
+# Git
+.git/
